@@ -1,6 +1,7 @@
 ### Olá, me chamo Luis Buscher! 👋
 
 - 📚  Estou cursando  Tecnologia da Informação
+- Backend
 
 <div align="center">
   <a href="https://github.com/Luisbuscher">
