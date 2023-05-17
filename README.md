@@ -14,7 +14,7 @@
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Luis-WordPress" height="30" width="40" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png">
+  <img align="center" alt="Luis-WordPress" height="30" width="38" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png">
     
 </div>
   
