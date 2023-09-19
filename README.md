@@ -1,6 +1,6 @@
-### Olá, me chamo Luis Buscher! 👋
+### Hello, my name is Luis Buscher! 👋
 
-- 📚 - Tecnologia da informação
+- 📚 - Information Technology
 - 👨‍💻 - Developer
 - 🖱️ - Back-end and front-and
   
