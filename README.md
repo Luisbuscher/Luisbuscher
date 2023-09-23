@@ -18,7 +18,6 @@
   ##
  
 <div>
-  <a href="www.linkedin.com/in/luis-buscher-91b86a28a" target="_blank"><img src="https://seeklogo.com/images/W/web-site-www-icon-logo-C9F2B6A779-seeklogo.com.png" target="_blank"></a>
   <a href="https://www.instagram.com/luisbuscher/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fabuscher05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/luis-buscher-91b86a28a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
