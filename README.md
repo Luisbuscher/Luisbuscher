@@ -1,9 +1,9 @@
 ### Hello, my name is Luis Buscher! 👋
 
-- 📚 - Information Technology
-- 👨‍💻 - Developer
+- 🎓 - Analysis and systems development
+- 👨‍💻 - Web Developer
 - 🖱️ - Back-end and front-and
-- 🌐 - https://luisfabiano.online/
+- 🌐 - https://luisfabiano.site/
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
