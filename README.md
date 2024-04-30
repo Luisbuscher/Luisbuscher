@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9822F7&random=false&width=435&lines=Ol%C3%A1!+Hello,+my+name+is+Luis+Buscher!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9822F7&random=false&width=435&lines=+Hello,+my+name+is+Luis+Buscher!)](https://git.io/typing-svg)
 
 - 🎓 - Analysis and systems development
 - 👨‍💻 - Web Developer
