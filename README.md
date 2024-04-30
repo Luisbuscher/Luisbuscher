@@ -1,4 +1,4 @@
-### Hello, my name is Luis Buscher! 👋
+[### Hello, my name is Luis Buscher! 👋](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=9822F7&random=false&width=435&lines=Hello,+my+name+is+Luis+Buscher!)
 
 - 🎓 - Analysis and systems development
 - 👨‍💻 - Web Developer
