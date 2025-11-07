@@ -13,7 +13,7 @@
   <img align="center" alt="Luis-Python" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
   <img align="center" alt="Luis-Postgre" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
   <img align="center" alt="Luis-MySQL" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
-  <img align="center" alt="Luis-MySQL" height="35" width="42" src="https://media.licdn.com/dms/image/v2/D4D0BAQG_xG05RM39Lw/company-logo_200_200/company-logo_200_200/0/1737486665638/latromi_technology_logo?e=2147483647&v=beta&t=UjzI3prR6d3S8wunePRfnPHgI_mwUf5eN10oJAUd-9g">
+  <img align="center" alt="Luis-MySQL" height="35" width="40" src="https://media.licdn.com/dms/image/v2/D4D0BAQG_xG05RM39Lw/company-logo_200_200/company-logo_200_200/0/1737486665638/latromi_technology_logo?e=2147483647&v=beta&t=UjzI3prR6d3S8wunePRfnPHgI_mwUf5eN10oJAUd-9g">
     
 </div>
 
