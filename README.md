@@ -14,7 +14,7 @@
   <img align="center" alt="Luis-Postgre" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
   <img align="center" alt="Luis-MySQL" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
   <img align="center" alt="Luis-MySQL" height="35" width="40" src="https://media.licdn.com/dms/image/v2/D4D0BAQG_xG05RM39Lw/company-logo_200_200/company-logo_200_200/0/1737486665638/latromi_technology_logo?e=2147483647&v=beta&t=UjzI3prR6d3S8wunePRfnPHgI_mwUf5eN10oJAUd-9g">
-  <img align="center" alt="Luis-MySQL" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/2560px-N8n-logo-new.svg.png">
+  <img align="center" alt="Luis-MySQL" height="35" width="45" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png">
     
 </div>
 
