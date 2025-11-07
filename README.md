@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9822F7&random=false&width=435&lines=+Hello,+my+name+is+Luis+Buscher!)](https://git.io/typing-svg)
 
 - 🎓 - Analysis and systems development
-- 👨‍💻 - Web Developer
-- 🖱️ - Back-end and front-and
-- 🌐 - https://luisbuscher.com - Temporariamente indisponivel
+- 👨‍💻 - Web Developer - Full stack
+- 🌐 - https://luisbuscher.com.br
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Luis-HTML" height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
